@@ -4,4 +4,7 @@ class UsersController < ApplicationController
 	def index
 		@user = 1111
 	end
+	def book
+		ssssss
+	end
 end
